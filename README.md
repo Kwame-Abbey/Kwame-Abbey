@@ -8,7 +8,7 @@ I specialize in building scalable and efficient backend systems. Passionate abou
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript (Node.js), Python, SQL  
+- **Languages:** C, JavaScript (Node.js), Python, SQL  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
 - **Frameworks:** Express.js, Flask, Django  
 - **Tools:** Git, Docker, Postman, Redis, Nginx  
