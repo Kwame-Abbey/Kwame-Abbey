@@ -15,9 +15,7 @@ I specialize in building scalable and efficient backend systems. Passionate abou
 
 ---
 
-## 📊 GitHub Stats
-
-![Kwame Abbey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwame-Abbey&show_icons=true&theme=dark)  
+## 📊 GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwame-Abbey&layout=compact&theme=dark)
 
